@@ -1,5 +1,5 @@
 # 腾讯觅影竞赛
-记录自己在腾讯觅影眼疾病分类的过程
+记录自己在腾讯觅影眼疾病分类的过程 -- 更新中
 ## Preprocessing 有预处理
 - resnet34
 - soomth cross entropy
