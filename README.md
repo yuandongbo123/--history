@@ -1,4 +1,4 @@
-# --history
+# 腾讯觅影竞赛
 记录自己在腾讯觅影眼疾病分类的过程
 ## Preprocessing 有预处理
 - resnet34
